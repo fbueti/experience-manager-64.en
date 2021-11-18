@@ -40,15 +40,6 @@ The following translation vendors provide an implementation of the new API for t
 * [Altlang](https://exchange.adobe.com/experiencecloud.details.90222.altlang.html)
 * Microsoft (Microsoft Translator is pre-installed in AEM)
 
->[!NOTE]
->
->To find the latest list of human and machine translation providers, have a look at these pages:  
->
->
->* [AEM Human Translation](https://www.adobe.com/go/aem-human-translation-connectors)
->* [AEM Machine Translation](https://www.adobe.com/go/aem-machine-translation-connectors)
->
-
 After you install a connector package, you can create a cloud configuration for the connector. Typically, you need to provide your credentials for authenticating with the translation service. For information about adding a cloud configuration for the Microsoft Translator connector, see [Integrating with Microsoft Translator](/help/sites-administering/tc-msconf.md).
 
 You can create multiple cloud configurations for the same connector if required. For example, create one configuration for each of the accounts or projects that you have with the same vendor.
